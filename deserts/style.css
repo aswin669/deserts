@@ -1,0 +1,22 @@
+body {
+    background-color: #eee3dd;
+}
+
+
+.card-price{
+    color:#ff3333;
+}
+.carbon{
+    background-color: #f7c5c5;
+}
+.cart{
+    color: #ff3333;
+}
+.card{
+    transition: 1s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
